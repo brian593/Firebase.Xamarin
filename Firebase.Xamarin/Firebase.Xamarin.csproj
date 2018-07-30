@@ -4,4 +4,14 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="JWT" Version="4.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+    <PackageReference Include="System.Reactive.Core" Version="4.0.0" />
+    <PackageReference Include="System.Reactive.Interfaces" Version="4.0.0" />
+    <PackageReference Include="System.Reactive.Linq" Version="4.0.0" />
+    <PackageReference Include="System.Reactive.PlatformServices" Version="4.0.0" />
+    <PackageReference Include="XC.BouncyCastle.Crypto" Version="1.0.0" />
+  </ItemGroup>
+
 </Project>
